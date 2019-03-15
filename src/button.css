@@ -1,0 +1,45 @@
+.btn{
+    margin-left: -3%;
+    margin-top: 45px;
+    display: flex;
+    flex-direction: column;
+}
+.start {
+    width: 20%;
+    height: 41px;
+    border-color: rgb(0, 255, 157);
+    color: rgb(0, 255, 157);
+    border-radius: 10px;
+    font-size: 19px !important;
+    
+}
+
+.stop{
+    width: 20%;
+    height: 41px;
+    
+    border-color: rgb(20, 19, 19) !important;
+    color: black;
+    border-radius: 10px;
+    font-size: 19px !important;
+    margin-right: 15%;
+   
+}
+.reset{
+    width: 20%;
+    height: 41px;
+    border-color: rgb(56, 163, 235);
+    color: rgb(56, 163, 235);
+    border-radius: 10px;
+    font-size: 19px !important;
+   
+}
+
+.button{
+    display: flex;
+
+    margin-left: 16%;
+    margin-top: 82px;
+    
+
+}
